@@ -1,0 +1,16 @@
+body{margin:0px;font-size: 13px;font-family: Avenir Next,Avenir,Helvetica Neue,Helvetica,Lantinghei SC,Hiragino Sans GB,Microsoft YaHei,STHeiti,WenQuanYi Micro Hei,SimSun,sans-serif;font-smoothing: antialiased;     -ms-font-smoothing: antialiased;     -webkit-font-smoothing: antialiased;}
+a,a:link,a:visited,a:active{color: #414042;text-decoration:none;}
+a:hover{color:#254969;}
+
+.commonDiv{border:#abbecc 1px solid; width:98%; margin:10px auto;}
+.commontop{height: 35px;padding-left:15px;line-height: 40px;font-size: 15px;}
+.commonBottom{ background:#e0eef9;height: 40px; padding-left:15px;}
+
+.commonTable,.commonTable1{width:98%;border-collapse: collapse; margin:10px auto;}
+.commonTable th{ color:#FFFFFF; text-align:center;font-size: 14px;font-weight: normal;background:#4c80c9;height: 35px;}
+.commonTable td{text-align:center;height: 35px;border-bottom: #F0F0F0 1px solid;}
+.commonTable tr:hover{ background:#e0eef9;}
+.commonTable1 td{ border-bottom:#c8cdd0 1px solid; height:30px; padding:2px;}
+
+.icon,a.icon:link,a.icon:visited,a.icon:active{ color:#FFFFFF;background: #3E6DA9; display:inline-block;padding: 3px 10px; height:18px;border-radius: 5px; line-height:18px;text-align:center;}
+a.icon:hover{color:#e8dca5;}
